@@ -33,3 +33,22 @@ including root mean square error (RMSE), mean absolute error
 + The MC-SCNNLSTM, MC-CNN-LSTM, and SC-CNN-LSTM model’s prediction results produce predictive values that are close to actual values and are better than the baseline model.
 + Hybrid  of CNN-LSTM model achieves 61%, 37%, and 15% performance
 improvements of MAPE in terms of SC-CNN-LSTM, MC-SCNN-LSTM, and MC-CNN-LSTM respectively, compared to using the single model
+
+
+### How to Cite
+
+```
+  @inproceedings{10.1145/3575882.3575903,
+  author = {Hafizhahullah, Huzaifi and Yuliani, Asri Rizki and Pardede, Hilman and Ramdan, Ade and Zilvan, Vicky and Krisnandi, Dikdik and Kadar, Jimmy},
+  title = {A Hybrid CNN-LSTM for Battery Remaining Useful Life Prediction with Charging Profiles Data},
+  year = {2023},
+  isbn = {9781450397902},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3575882.3575903},
+  doi = {10.1145/3575882.3575903},
+  booktitle = {Proceedings of the 2022 International Conference on Computer, Control, Informatics and Its Applications},
+  pages = {106–110},
+  numpages = {5},
+  keywords = {Lithium-ion battery, remaining useful life, capacity prediction, CNN-LSTM, neural networks},
+  }
+```
